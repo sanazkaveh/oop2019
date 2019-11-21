@@ -1,0 +1,11 @@
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\bin\Debug\netcoreapp3.0\oop2019.exe
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\bin\Debug\netcoreapp3.0\oop2019.deps.json
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\bin\Debug\netcoreapp3.0\oop2019.runtimeconfig.json
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\bin\Debug\netcoreapp3.0\oop2019.runtimeconfig.dev.json
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\bin\Debug\netcoreapp3.0\oop2019.dll
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\bin\Debug\netcoreapp3.0\oop2019.pdb
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\obj\Debug\netcoreapp3.0\oop2019.csprojAssemblyReference.cache
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\obj\Debug\netcoreapp3.0\oop2019.AssemblyInfoInputs.cache
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\obj\Debug\netcoreapp3.0\oop2019.AssemblyInfo.cs
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\obj\Debug\netcoreapp3.0\oop2019.dll
+C:\Users\sanaz\Desktop\oop2019\oop2019\oop2019\obj\Debug\netcoreapp3.0\oop2019.pdb
